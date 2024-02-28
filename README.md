@@ -3,25 +3,17 @@
 <div align="center">
 <h1 align="center">Hi there 👋 Im Julian Arruti </h1>
 </div>
-##buscar imagen
-
+#buscar otra imagen
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
 ## Sobre mi
-
 - 📲
 - 🎥
 - ✏️ 
 - 📗 
 - 🧑‍🏫
 
-
-
-
-          
-
-          
-  
-          
-          
+        
 ###  Languages and Tools 🧰
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
@@ -31,7 +23,7 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
           
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Bash" width="45px" style="padding-right:1px;" src="https://logowik.com/content/uploads/images/google-colaboratory6512.jpg" />
 
 
