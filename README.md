@@ -7,11 +7,11 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 ## Sobre mi
-- 📲
-- 🎥
-- ✏️ 
-- 📗 
-- 🧑‍🏫
+- 📲 Im locking to get work experience, has a trainer or junior
+- 🎥 Caracteristica de personalidad i guess: 
+- ✏️ My next steps are learn Azure, Docker and SHAP
+- 📗 Pendiente:
+- 🧑‍🏫 Curious fact: I like to play League of Legends
 
         
 ###  Languages and Tools 🧰
