@@ -3,18 +3,19 @@
 <div align="center">
 <h1 align="center">Hi there 👋 Im Julian Arruti </h1>
 </div>
-#buscar otra imagen
+
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
-## Sobre mi
-- 📗 Data Sciencist, Ex-college Chemestry/Biotecnology estudent who find his real passion for dat
+<h2>Sobre mi </h2> 
+
+- 📗 Data Sciencist, Ex-college Chemestry/Biotecnology estudent who find his real passion for data
 - 📲 Im locking to get work experience, has a trainer or junior
 - 🎥 ? Caracteristica de personalidad i guess: 
 - ✏️ My next steps are learn Azure, Docker and SHAP
 - 🧑‍🏫 Curious fact: I like to play League of Legends
 
-        
-###  Languages and Tools 🧰
+<br>
+<h2>Languages and Tools 🧰 </h2>         
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://geo-python.github.io/site/_images/pandas_logo.png">
