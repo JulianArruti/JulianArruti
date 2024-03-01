@@ -4,23 +4,24 @@
 <h1 align="center">Hi there 👋 Im Julian Arruti </h1>
 </div>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
  
-<h2>Sobre mi </h2> 
+<h2>About Me </h2> 
 
 - 📗 Data Sciencist, Ex-college Chemestry/Biotecnology estudent who find his real passion for data
-- 📲 Im locking to get work experience, has a trainer or junior
+- 📲 Im locking to get work experience, has a junior or trainer
 - 🎥 ? Caracteristica de personalidad i guess: 
-- ✏️ My next steps are learn Azure, Docker and SHAP
+- ✏️ My next steps are learn Azure, Docker/Kubernetes and SHAP
 - 🧑‍🏫 Curious fact: I like to play League of Legends
 
 <br>
 <h2>Languages and Tools 🧰 </h2>         
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://geo-python.github.io/site/_images/pandas_logo.png">
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="Bash" width="45px" style="padding-right:1px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -28,6 +29,7 @@
 <img align="left" alt="Bash" width="45px" style="padding-right:1px;" src="https://logowik.com/content/uploads/images/google-colaboratory6512.jpg" />
 <br />
 
+          
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
