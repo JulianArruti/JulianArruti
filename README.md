@@ -8,10 +8,11 @@
  
 ## Sobre mi
 - 📲 Im locking to get work experience, has a trainer or junior
-- 🎥 Caracteristica de personalidad i guess: 
+- 🎥 ? Caracteristica de personalidad i guess: 
 - ✏️ My next steps are learn Azure, Docker and SHAP
-- 📗 Pendiente:
+- 📗 1 Data Sciencist, Ex-college Chemestry/Biotecnology estudent who find his real passion for data ¿¿¿after pandemic???
 - 🧑‍🏫 Curious fact: I like to play League of Legends
+- 
 
         
 ###  Languages and Tools 🧰
