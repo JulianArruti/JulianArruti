@@ -5,7 +5,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
  
-<h2>About Me </h2> 
+<h3>About Me </h3> 
 
 - 📗 Data Sciencist, Ex-college Chemestry/Biotecnology estudent who find his real passion for data
 - 📲 Im locking to get work experience, has a junior or trainer
