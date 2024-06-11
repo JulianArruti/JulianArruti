@@ -9,8 +9,8 @@
 
 - 📗 Data Sciencist, Ex-college Chemestry/Biotecnology estudent who find his real passion for data
 - 📲 Im locking to get work experience, has a junior or trainer
-- 🎥 ? Caracteristica de personalidad i guess: 
-- ✏️ My next steps are learn Azure, Docker/Kubernetes and SHAP
+- 🎥 Do nothing == Boring
+- ✏️ My next steps are learn IA services, starting with BOT chats with RGA tecnology and for algorithms SHAP
 - 🧑‍🏫 Curious fact: I like to play League of Legends
 
 <br>
