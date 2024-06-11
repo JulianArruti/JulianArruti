@@ -15,9 +15,9 @@
 
 <br>
 <br>
-I manage the following technology stack: R, Python, Numpy, Pandas, Keras, Tensor Flow, Scikit-learn, AWS, Docker and SQL. I am currently in the final stages of a degree in Data Science.
- Proficient and worked algorithms: Proficient with Clusters, Naive Bayes, Trees, Time Series and Neural Networks (CNN and NPL). Worked in the diploma and courses: Correlation, Association Rules, Support Vector Machine, Advanced Bayesian Methods, Text Mining, Genetic Algorithms and introduction to Big Data.
-Also did a Bot-chat APP using RGA tecnology for a challenge in a interview for IA Engineer, that it pass all the requirements, is here in github if you want to give it a look!
+I manage the following technology stack: R, Python, Numpy, Pandas, Keras, Tensor Flow, Scikit-learn, AWS, Docker and SQL. <br>
+I am currently in the final stages of a degree in Data Science. Proficient and worked algorithms: Proficient with Clusters, Naive Bayes, Trees, Time Series and Neural Networks (CNN and NPL). Worked in the diploma and courses: Correlation, Association Rules, Support Vector Machine, Advanced Bayesian Methods, Text Mining, Genetic Algorithms and introduction to Big Data. <br>
+Also did a Bot-chat APP using RGA tecnology for a challenge in a interview for IA Engineer, that it pass all the requirements, is here in github if you want to give it a look! <br>
 I am looking for work experience to grow in my career, as I believe that the best way to grow is to apply knowledge and skills through challenging experiences that lead to reflection and development.
 
 <h2>Languages and Tools 🧰 </h2>         
