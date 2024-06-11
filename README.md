@@ -10,12 +10,15 @@
 - 📗 Data Sciencist, Ex-college Chemestry/Biotecnology estudent who find his real passion for data
 - 📲 Im locking to get work experience, has a junior or trainer
 - 🎥 Do nothing == Boring
-- ✏️ My next steps are learn IA services, starting with BOT chats with RGA tecnology and for algorithms SHAP
+- ✏️ My next steps are learn IA services, starting with BOT chats using RGA tecnology and SHAP for algorithms deep undestanding
 - 🧑‍🏫 Curious fact: I like to play League of Legends
 
 <br>
 <br>
-Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla 
+I manage the following technology stack: R, Python, Numpy, Pandas, Keras, Tensor Flow, Scikit-learn, AWS, Docker and SQL. I am currently in the final stages of a degree in Data Science.
+ Proficient and worked algorithms: Proficient with Clusters, Naive Bayes, Trees, Time Series and Neural Networks (CNN and NPL). Worked in the diploma and courses: Correlation, Association Rules, Support Vector Machine, Advanced Bayesian Methods, Text Mining, Genetic Algorithms and introduction to Big Data.
+Also did a Bot-chat APP using RGA tecnology for a challenge in a interview for IA Engineer, that it pass all the requirements, is here in github if you want to give it a look!
+I am looking for work experience to grow in my career, as I believe that the best way to grow is to apply knowledge and skills through challenging experiences that lead to reflection and development.
 
 <h2>Languages and Tools 🧰 </h2>         
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
@@ -56,4 +59,5 @@ Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla 
 
 <details>
  <summary><h3>If you are interested here is My Coding Journey 👨‍💻</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+I studied up to 4th year of Biotechnology and 3rd year of Chemistry, both at the Faculty of Chemical Sciences, UNC. In which I spent 1 year as a research assistant.
+In pandemic I found my affinity with programming through a web course, and then I discovered my passion for the world of data with the subjects of Bioinformatics and Statistics at the university, which prompted my decision to change my career to the world of data.
